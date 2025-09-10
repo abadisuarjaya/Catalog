@@ -9,6 +9,12 @@
           <p>Banyuwangi, Jawa Timur</p>
           <p>Email: abadisuarjaya@gmail.com</p>
           <p>Telp: +62 852-9477-5689</p>
+          <p>
+            Maps:
+            <NuxtLink to="https://share.google/XIWPt3qukWgdPz5Mb" :external="true" target="_blank"
+              >Google Maps</NuxtLink
+            >
+          </p>
         </div>
 
         <!-- Metode Pembayaran -->
@@ -23,7 +29,7 @@
         <div>
           <h3 class="text-xl font-bold mb-4">Ikuti Kami</h3>
           <div class="flex flex-wrap items-center gap-4">
-            <NuxtLink to="https://www.instagram.com/abadisuarjaya?igsh=bjVmbTNhbWk3bXRh&utm_source=qr" target="_blank">
+            <NuxtLink to="https://www.instagram.com/abadisuarjaya" target="_blank">
               <img src="/images/logo/instagram.png" alt="Instagram" class="h-8 object-contain" />
             </NuxtLink>
           </div>
