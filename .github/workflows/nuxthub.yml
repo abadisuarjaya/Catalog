@@ -1,4 +1,4 @@
-name: Deploy to NuxtHub
+name: Deploy to NuxtHub (Cloudflare)
 on: push
 
 jobs:
