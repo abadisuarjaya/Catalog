@@ -7,13 +7,13 @@ image: /images/dining-table.jpg
 
 # Detail Produk
 
-Dining Table Kayu Jati ini dirancang untuk memberikan sentuhan elegan dan hangat pada ruang makan Anda.
+Dining Table Kayu Saman ini dirancang untuk memberikan sentuhan elegan dan hangat pada ruang makan Anda.
 
-Terbuat dari **kayu jati solid** berkualitas tinggi yang terkenal akan kekuatan dan ketahanannya terhadap rayap serta kelembapan.
+Terbuat dari **kayu saman solid** berkualitas tinggi yang terkenal akan kekuatan dan ketahanannya terhadap rayap serta kelembapan.
 
 # Keunggulan
 
-\- **Material Premium:** 100% kayu jati pilihan.
+\- **Material Premium:** 100% kayu dsmsn pilihan.
 
 \- **Finishing Halus:** Lapisan melamin anti gores yang memancarkan kilau alami.
 
