@@ -5,7 +5,7 @@
       <UContainer>
         <h1 class="text-3xl md:text-4xl font-bold mb-4">Cara Pemesanan</h1>
         <p class="text-gray-600 max-w-2xl mx-auto">
-          Ikuti langkah mudah berikut untuk memesan produk furniture impian Anda dari MeubelIndah.
+          Ikuti langkah mudah berikut untuk memesan produk furniture impian Anda dari Meubel Abadi Suar Jaya.
         </p>
       </UContainer>
     </section>
